@@ -1,4 +1,3 @@
-package com.amigoscode.demo.student;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
